@@ -1,0 +1,6 @@
+hello python, i am prabhat
+INFO Server Started
+INFO User Login
+ERROR Database Failed
+INFO Request Completed
+ERROR Disk Full
